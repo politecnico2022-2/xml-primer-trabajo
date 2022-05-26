@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE HechosHistoricos SYSTEM "HechosHistoricos.dtd">
+<HechosHistoricos>
+    <HechoHistorico descripcion="">
+        <Fecha>
+            <FormatoFecha>
+                <Dia></Dia>
+                <Mes></Mes>
+                <Año></Año>
+            </FormatoFecha>
+        </Fecha>
+        <Epoca/>
+        <PersonajeDestacado>
+            Test persona <Nombre></Nombre> y fecha de nacimiento: <FechaNacimiento></FechaNacimiento>
+        </PersonajeDestacado>
+    </HechoHistorico>
+
+    <HechoHistorico descripcion="">
+        <Fecha>
+            <FormatoFecha>
+                <Dia></Dia>
+                <Mes></Mes>
+                <Año></Año>
+            </FormatoFecha>
+        </Fecha>
+        <Epoca/>
+        <PersonajeDestacado>
+            Test persona <Nombre></Nombre> y fecha de nacimiento: <FechaNacimiento></FechaNacimiento>
+        </PersonajeDestacado>
+    </HechoHistorico>
+</HechosHistoricos>
